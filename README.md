@@ -1,4 +1,4 @@
-# GithubAddictFeedback
+# GitHubAddictFeedback
 
 ![-w600](https://ws4.sinaimg.cn/large/006tNbRwly1fusunvnf53g30m80go103.gif)
 
